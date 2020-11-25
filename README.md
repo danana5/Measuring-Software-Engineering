@@ -9,7 +9,7 @@ In the case of software engineering the ability to collect metrics in general is
 
 ## Metrics
 
-### Source Lines of Code (SLOC)
+#### Source Lines of Code (SLOC)
 Also known as lines of code (LOC), is a very common software metric used to measure the size of a computer program by counting the total number of lines in the text of the program’s source code.  SLOC can be separated into two major types; physical SLOC and logical SLOC. 
 
 * **Physical SLOC:** The most common definition of physical SLOC is a count of lines in the text of the program’s source code exempting the amount of comment lines. 
@@ -47,4 +47,38 @@ For this example:
 * 2 logical lines of code
 * 1 comment line
 
+### Does it work?
+>”Using SLOC to measure software progress is like using kg for measuring progress on aircraft manufacturing” – Bill Gates
+This quote sums up the essence of the argument against using SLOC as a relevant and meaningful metric in measuring the progress and productivity of software engineering. The total lines of code and total amount of statements is an irrelevant metric for measuring software engineering as it encourages bad practises such as:
+* Copy-Paste-Syndrome
+* Discourages refactoring to make things more streamlined and similar
+* Adding lines of code which adds to complexity
+* Added complexity means it is harder to understand
+* Understanding takes time and costs productivity
 
+An example of the bad practice that SLOC encourages:
+```java
+// Print the number 1
+System.out.println(1);
+// Print the number 2
+System.out.println(2);
+// Print the number 3
+System.out.println(3);
+// Print the number 4
+System.out.println(4);
+// Print the number 5
+System.out.println(5);
+// Print the number 6
+System.out.println(6);
+// Print the number 7
+System.out.println(7);
+// Print the number 8
+System.out.println(8);
+// Print the number 9
+System.out.println(9);
+// Print the number 10
+System.out.println(10);
+```
+As you can decipher from the above code, it carries out a simple task of printing out the numbers 1 to 10. The SLOC of the above code regardless of physical or logical is 10. Both examples I gave earlier were more efficient ways of approaching this problem yet both have lower SLOC. Any software engineer manager would rather the examples earlier as opposed to the hard coding of the above example. This is a very simple way of highlighting the inefficiency and discrepancies of SLOC as a metric.
+
+Using SLOC as a metric also has its down sides when you are evaluating using different programming languages as different languages require different amounts of lines of code to achieve the same amount of functionality. For instances higher level languages such as Python, Java and GO allow programmers to write useful applications with only a handful amount of lines of code whereas a lower level language such as C would require many more lines of code to achieve the same functionality.
