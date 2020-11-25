@@ -49,7 +49,9 @@ For this example:
 
 ### Does it work?
 >”Using SLOC to measure software progress is like using kg for measuring progress on aircraft manufacturing” – Bill Gates
+
 This quote sums up the essence of the argument against using SLOC as a relevant and meaningful metric in measuring the progress and productivity of software engineering. The total lines of code and total amount of statements is an irrelevant metric for measuring software engineering as it encourages bad practises such as:
+
 * Copy-Paste-Syndrome
 * Discourages refactoring to make things more streamlined and similar
 * Adding lines of code which adds to complexity
