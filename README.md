@@ -9,7 +9,7 @@ In the case of software engineering the ability to collect metrics in general is
 
 ## Metrics
 
-#### Source Lines of Code (SLOC)
+### Source Lines of Code (SLOC)
 Also known as lines of code (LOC), is a very common software metric used to measure the size of a computer program by counting the total number of lines in the text of the program’s source code.  SLOC can be separated into two major types; physical SLOC and logical SLOC. 
 
 * **Physical SLOC:** The most common definition of physical SLOC is a count of lines in the text of the program’s source code exempting the amount of comment lines. 
