@@ -90,11 +90,11 @@ SLOC is a valuable metric when combined along side other relevant metrics. As a 
 ### ABC
 The ABC software engineering was introduced by Jerry Fitzpatrick in 1997. Fitzpatrick decided to create ABC in order to overcome the drawbacks of SLOC as I stated above. The metric is used to define an ABC score as a triplet of values that represent the size of a group of source code statements.  The ABC score can be applied and evaluated to singular functions, classes, methods or files.
 
-**A:** The A is adding up the number of assignments in the program.
+* **A:** The A is adding up the number of assignments in the program.
 
-**B:** The B is adding up the number of branches in the program.
+* **B:** The B is adding up the number of branches in the program.
 
-**C:** The C is adding up the number of conditionals in the program.
+* **C:** The C is adding up the number of conditionals in the program.
 
 The ABC score is shown as a 3D vector or as a scalar value which is made up of the magnitude of the vector. 
 
