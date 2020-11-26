@@ -84,3 +84,22 @@ System.out.println(10);
 As you can decipher from the above code, it carries out a simple task of printing out the numbers 1 to 10. The SLOC of the above code regardless of physical or logical is 10. Both examples I gave earlier were more efficient ways of approaching this problem yet both have lower SLOC. Any software engineer manager would rather the examples earlier as opposed to the hard coding of the above example. This is a very simple way of highlighting the inefficiency and discrepancies of SLOC as a metric.
 
 Using SLOC as a metric also has its down sides when you are evaluating using different programming languages as different languages require different amounts of lines of code to achieve the same amount of functionality. For instances higher level languages such as Python, Java and GO allow programmers to write useful applications with only a handful amount of lines of code whereas a lower level language such as C would require many more lines of code to achieve the same functionality.
+
+SLOC is a valuable metric when combined along side other relevant metrics. As a single metric it does not paint a picture which is relevant to measure software engineering.
+
+### ABC
+The ABC software engineering was introduced by Jerry Fitzpatrick in 1997. Fitzpatrick decided to create ABC in order to overcome the drawbacks of SLOC as I stated above. The metric is used to define an ABC score as a triplet of values that represent the size of a group of source code statements.  The ABC score can be applied and evaluated to singular functions, classes, methods or files.
+
+**A:** The A is adding up the number of assignments in the program.
+**B:** The B is adding up the number of branches in the program.
+**C:** The C is adding up the number of conditionals in the program.
+
+The ABC score is shown as a 3D vector or as a scalar value which is made up of the magnitude of the vector. 
+
+### Does it work?
+The ABC metric can’t be used as a measure of productivity or effort. The value of A (Assignments) weighs very much in its calculation and the value of C (Conditions) are undervalued. The ABC metric is independent of the number of lines of code. The ABC metric is more oriented to the data than to the logic of the program. ABC struggles with different programming languages due to the syntax differences between these programming languages. For ABC to work effectively with some languages the metric needs to be tweaked in order to fulfil the goals of the metric. Furthermore, the ABC metric is unsuitable for non-imperative languages such as Prolog. This leaves us with a similar conclusion to SLOC as on its own ABC is not a very relevant metric, but it has use when used alongside other metrics.
+
+On its own the ABC metric is not a relevant metric to measure software engineering. 
+
+
+
