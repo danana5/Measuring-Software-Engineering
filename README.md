@@ -147,7 +147,7 @@ Jira has a scrum board feature that allows teams and groups to focus on deliveri
 ### TIMEULAR
 Timeular is a time management tool which is used by Google, KPMG and Audi. This tool, however, is not a software solution. It is a hardware solution with supporting software. Immediately the advantage of taking a tool off a computer and into the real world assists in productivity and workflow for engineers not needing to have multiple tools open. The piece of hardware which Timeular produce is a unique 8-sided die which allows users to draw symbols or words on each side. The user will then flip up the die to whatever task they are currently undergoing. The data is then recorded and visualised in an app. 
 
-![timeular die](timeular.jpeg)
+![timeular die](timeular.jpg)
 
 The data recorded from the use of this die can be viewed by the project manager in order to visualise where his engineers are spending their time and they can use this to increase productivity of their team.
 
