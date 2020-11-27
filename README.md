@@ -117,4 +117,19 @@ Closed tickets as a relevant metric really comes down to how it is implemented a
 In the end Closed Tickets as a metric is more effective and relevant than SLOC and ABC as it offers a more general and realistic view of the work achieved by individual engineers. The main downside of Closed Tickets as a metric is the work that is added to the managers table due to the complexity of implementing it in an effective way.
 
 
-### ITEMS COVERED IN A STANDUP MEETING
+### ITEMS COVERED IN A STAND-UP MEETING
+Items covered in a stand-up meeting is the last metric I will be discussing in this report. Software engineering teams will usually have daily stand-up meetings. These meetings will usually cover questions such as; What did you get done yesterday? What are you going to do today? What challenges are you facing? These questions are quite mondain, but they can be used to gauge engineer productivity. For instance, if an engineer is regularly completing the tasks they set out in the stand-up meeting, this shows consistency and productivity. 
+
+
+When it comes to items covered in a stand-up meeting as a metric it needs to be recorded. One way of doing this is having someone record everything stated in the meetings. Then a manager could review what was said in past meetings to measure the productivity of the engineers. Another way to measure this as a metric is to use a software tool to help measure this. Some of these tools include Geekbot and Sleeek which are both bots for Slack. They perform simple surveys and keep track of employees and their respective tasks.
+
+<img src=”/sleeek.png” alt=”sleek bot in use”>
+
+
+####Does it Work?
+Once again, the metric comes down to how it is implemented. I mentioned above two of the ways a manger could implement and record this metric. The former being using notes from the stand-up meetings and review these notes to draw their own conclusions. The main problem with this approach is it could lead to the slowing down of the daily stand-up meetings. It also is a very public way of measuring engineering productivity and some members of a team might not feel comfortable discussing why they haven’t completed a given task.
+
+Another issue with this metric is that an engineer could be overly optimistic with their predictions. They could bite of more than they can chew per se. For this metric to me truly relevant a manager will need to create a safe environment for their team to speak out.
+
+In conclusion, this metric relies heavily on accountability and honesty of team members but it is very conclusive in showing the productivity of the engineers in question.
+
