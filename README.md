@@ -146,8 +146,8 @@ Jira has a scrum board feature that allows teams and groups to focus on deliveri
 
 ### TIMEULAR
 Timeular is a time management tool which is used by Google, KPMG and Audi. This tool, however, is not a software solution. It is a hardware solution with supporting software. Immediately the advantage of taking a tool off a computer and into the real world assists in productivity and workflow for engineers not needing to have multiple tools open. The piece of hardware which Timeular produce is a unique 8-sided die which allows users to draw symbols or words on each side. The user will then flip up the die to whatever task they are currently undergoing. The data is then recorded and visualised in an app. 
+![timeular die](timeular.jpeg)
 
-![timeular die](timeular.jpg)
 
 The data recorded from the use of this die can be viewed by the project manager in order to visualise where his engineers are spending their time and they can use this to increase productivity of their team.
 
@@ -171,4 +171,40 @@ The actual software is a web-based dashboard. The sources which can be used incl
 
 
 ## Ethical Considerations
+Ethics is a big talking point when it comes to software and tools that claim to measure employees in any field. The main ethical talking point is privacy. All the tools I discussed above are built on collecting data, using that data, and then either displaying that data or using that data to determine something of use. The gathering of data is where the lines are blurry for the employees in many cases. 
 
+
+In my opinion, data being collected to analyse and help companies get the best out of their employees makes sense and is a brilliant idea. The problem however comes down to what data is gathered as some data such as private emails and messages to other employees are private and should stay that way. These tools claim not to access and use these types of private data, but they do have access to them particularly Humanyze.
+
+
+Humanyze CEO Ben Waber has stated that “Technology enables humans to focus on what they are good at”. Waber stresses that people opt in to wearing Humayze’s badges and that implementation is treated like any cultural change programme. He also claims that at each client he goes to, 90% of employees opt in. He claims that “it’s a legal contract that people choose to sign”. I agree that people need to opt into whatever he and his company are accessing and recording. The problem is many employees might not be aware of the data in which Humanyze is collecting and analysing.  Humanyze do have an extensive privacy policy which is viewable on their website.
+
+
+Some surveys suggest that a certain degree of openness is common amongst employees. Employee’s are open to learning more about themselves and finding out how they can improve. The issue eventually comes down to trust and trust in the tools they are using. Monitoring of employees represents a lack of trust in the employees to do their jobs effectively. This signal of a loss of trust can be damning to some employees and can be detrimental to their productivity. Therefore, correcting the reason these tools are brought in for. 
+
+
+At the end of the day data gathering is a slippery ethical slope. Particularly when you think that the employees who are creating this data which is being gathered by Humanyze, don’t own the data once it is gathered by Humanyze. This lack of control for some people may be troubling. 
+
+
+There is cause for optimism though. It does not have to be a dystopian. The metrics which I provided, earlier in the report, are all somewhat relevant and good data to record and analyse which some of the tools I later discussed help to measure, are all relevant data points which I believe employees cant have many problems with. The industry of employee monitoring and analytics will always carry an ethical cloud over them but it is down to the companies to be as transparent as possible of the data that they gather in order to build trust with the subjects.
+
+
+## Conclusion
+Throughout this report I discussed the different metrics relevant to measuring software engineering, tools that can be used to measure software engineers and the ethical considerations of measuring software engineering. I myself was not aware of the size of the industry that work to monitor and analyse the data of employees. 
+
+# Bibliography
+10 tips to Measure Developer Productivity, sleek.io, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+
+The ethics of gathering employee data, HR Magazine, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+
+Can You Really Measure Individual Developer Productivity, Pragmatic Engineer, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+
+The future of the professions: how technology will transform the work of human experts, Oxford Martin School, https://www.youtube.com/watch?v=Dp5_1QPLps0
+
+W. Snipes, V. Augustine, A. R. Nair and E. Murphy-Hill, "Towards recognizing and rewarding efficient developer work patterns," 2013 35th International Conference on Software Engineering (ICSE), San Francisco, CA, 2013, pp. 1277-1280.
+
+Humanyze Official Website, Humanyze, https://www.humanyze.com/
+
+Timeular Official Website, Timeular, https://timeular.com/
+
+Development Metrics that Matter, GitHub, https://github.com/features/insights
