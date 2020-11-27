@@ -126,7 +126,7 @@ When it comes to items covered in a stand-up meeting as a metric it needs to be 
 ![sleeek bot in use](sleek.png)
 
 
-####Does it Work?
+#### Does it Work?
 Once again, the metric comes down to how it is implemented. I mentioned above two of the ways a manger could implement and record this metric. The former being using notes from the stand-up meetings and review these notes to draw their own conclusions. The main problem with this approach is it could lead to the slowing down of the daily stand-up meetings. It also is a very public way of measuring engineering productivity and some members of a team might not feel comfortable discussing why they haven’t completed a given task.
 
 Another issue with this metric is that an engineer could be overly optimistic with their predictions. They could bite of more than they can chew per se. For this metric to me truly relevant a manager will need to create a safe environment for their team to speak out.
