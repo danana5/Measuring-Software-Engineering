@@ -9,7 +9,7 @@ In the case of software engineering the ability to collect metrics in general is
 
 ## Metrics
 
-### Source Lines of Code (SLOC)
+### SOURCE LINES OF CODE (SLOC)
 Also known as lines of code (LOC), is a very common software metric used to measure the size of a computer program by counting the total number of lines in the text of the program’s source code.  SLOC can be separated into two major types; physical SLOC and logical SLOC. 
 
 * **Physical SLOC:** The most common definition of physical SLOC is a count of lines in the text of the program’s source code exempting the amount of comment lines. 
@@ -104,7 +104,7 @@ The ABC metric can’t be used as a measure of productivity or effort. The value
 
 On its own the ABC metric is not a relevant metric to measure software engineering. 
 
-### Closed Tickets
+### CLOSED TICKETS
 Closed tickets are the next metric I will discuss in this report. Many software projects are managed by a system that monitors work to be done with tickets for individual engineers. By counting and adding up every single ticket that is closed by a developer over a certain time period this metric will allow you to see how much progress and work is being closed off.
 
 
@@ -115,3 +115,6 @@ The metric of closed tickets requires tasks and jobs to be set out for individua
 Closed tickets as a relevant metric really comes down to how it is implemented and how well it is implemented and how equal the tickets are distributed. As I stated above, some tickets may take longer than others which can lead to differing amount of work earning different amounts of closed tickets. The way of scoring the tickets as stated above would remove this issue if carried out correctly. Closed Tickets does have the potential to simply become a list of tasks and it is possible that engineers could take advantage and close a considerably large amount of tickets and look productive and efficient without accomplishing much meaningful work.
 
 In the end Closed Tickets as a metric is more effective and relevant than SLOC and ABC as it offers a more general and realistic view of the work achieved by individual engineers. The main downside of Closed Tickets as a metric is the work that is added to the managers table due to the complexity of implementing it in an effective way.
+
+
+### ITEMS COVERED IN A STANDUP MEETING
