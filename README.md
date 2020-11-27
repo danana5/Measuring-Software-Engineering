@@ -131,5 +131,44 @@ Once again, the metric comes down to how it is implemented. I mentioned above tw
 
 Another issue with this metric is that an engineer could be overly optimistic with their predictions. They could bite of more than they can chew per se. For this metric to me truly relevant a manager will need to create a safe environment for their team to speak out.
 
-In conclusion, this metric relies heavily on accountability and honesty of team members but it is very conclusive in showing the productivity of the engineers in question.
+In conclusion, this metric relies heavily on accountability and honesty of team members, but it is very conclusive in showing the productivity of the engineers in question.
+
+## Third-Party Tools
+Managers have a set of tools available to them to measure software engineers. These tools can move the workload from the manager who might have to analyse and inspect individual’s code or writing a report. There is a plethora of tools available to do this and it is up to the project managers to use these tools. I will discuss **four** of these tools below. The tools I will be discussing are; Jira, Timeular, GitHub Insights and Humanyze. 
+
+### JIRA
+Jira is a proprietary issue tracking software developed by Atlassian. It allows its users track bugs and gives them agile project management abilities. The software gets its name from the Japanese word for Godzilla, Gojira. It is used across a vast amount companies in the software development world. Its main use is to streamline and optimise existing workflows. It does however have many tools and features that allow users to measure software engineering.
+
+![jira logo](jira.png)
+
+
+Jira has a scrum board feature that allows teams and groups to focus on delivering iterative and incremental value this increasing productivity within the team and the volume of output produced by the team. Jira also has a roadmap feature to allow sculpt a bigger picture for team members to join in and stay on top of and engage in.  Jira has many tools and features to help visualise reporting and goals of teams such as Sprint Reports, Velocity Charts and Burndown/up charts.
+
+### TIMEULAR
+Timeular is a time management tool which is used by Google, KPMG and Audi. This tool, however, is not a software solution. It is a hardware solution with supporting software. Immediately the advantage of taking a tool off a computer and into the real world assists in productivity and workflow for engineers not needing to have multiple tools open. The piece of hardware which Timeular produce is a unique 8-sided die which allows users to draw symbols or words on each side. The user will then flip up the die to whatever task they are currently undergoing. The data is then recorded and visualised in an app. 
+![timeular die](timeular.jpeg)
+
+
+The data recorded from the use of this die can be viewed by the project manager in order to visualise where his engineers are spending their time and they can use this to increase productivity of their team.
+
+
+### GITHUB INSIGHTS
+GitHub is one of the most popular third-party software used by software engineers around the world. GitHub at its core is a version control software which allows for the control and management of codebases. It has various other features as well as its core. The main feature used by managers to manage software engineers is GitHub’s Insights tab on repositories. This feature gives users access to the amount of pull requests which have been merged, the amount of closed issues and new issues. 
+
+![github insights gui](insights.png)
+
+
+Managers also have access to a breakdown of individual metrics such as lines added and removed and total commits. Insights allows mangers to view a timeline of the most recent commits and allows for the tracking of different branches. 
+
+
+### HUMANYZE
+Humanyze is a people analytics software provider. It is based on research and findings from the MIT Media Lab. Humanyze Elements is the product which allows for the measuring of software engineering. Humanyze uses communication data to uncover patterns on how work gets done in teams and companies. Project managers can use this data to analyse their employee’s productivity and workload in real time and may help them make better decisions. 
+
+![humayze logo](humanyze.png)
+
+
+The actual software is a web-based dashboard. The sources which can be used include Google Suite, Office Exchange, Skype and Humanyze Badge.
+
+
+## Ethical Considerations
 
