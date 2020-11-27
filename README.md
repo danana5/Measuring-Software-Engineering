@@ -193,18 +193,18 @@ There is cause for optimism though. It does not have to be a dystopian. The metr
 Throughout this report I discussed the different metrics relevant to measuring software engineering, tools that can be used to measure software engineers and the ethical considerations of measuring software engineering. I myself was not aware of the size of the industry that work to monitor and analyse the data of employees. 
 
 # Bibliography
-10 tips to Measure Developer Productivity, sleek.io, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+* 10 tips to Measure Developer Productivity, sleek.io, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
 
-The ethics of gathering employee data, HR Magazine, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+* The ethics of gathering employee data, HR Magazine, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
 
-Can You Really Measure Individual Developer Productivity, Pragmatic Engineer, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
+* Can You Really Measure Individual Developer Productivity, Pragmatic Engineer, https://www.hrmagazine.co.uk/article-details/the-ethics-of-gathering-employee-data
 
-The future of the professions: how technology will transform the work of human experts, Oxford Martin School, https://www.youtube.com/watch?v=Dp5_1QPLps0
+* The future of the professions: how technology will transform the work of human experts, Oxford Martin School, https://www.youtube.com/watch?v=Dp5_1QPLps0
 
-W. Snipes, V. Augustine, A. R. Nair and E. Murphy-Hill, "Towards recognizing and rewarding efficient developer work patterns," 2013 35th International Conference on Software Engineering (ICSE), San Francisco, CA, 2013, pp. 1277-1280.
+* W. Snipes, V. Augustine, A. R. Nair and E. Murphy-Hill, "Towards recognizing and rewarding efficient developer work patterns," 2013 35th International Conference on Software Engineering (ICSE), San Francisco, CA, 2013, pp. 1277-1280.
 
-Humanyze Official Website, Humanyze, https://www.humanyze.com/
+* Humanyze Official Website, Humanyze, https://www.humanyze.com/
 
-Timeular Official Website, Timeular, https://timeular.com/
+* Timeular Official Website, Timeular, https://timeular.com/
 
-Development Metrics that Matter, GitHub, https://github.com/features/insights
+* Development Metrics that Matter, GitHub, https://github.com/features/insights
