@@ -123,7 +123,7 @@ Items covered in a stand-up meeting is the last metric I will be discussing in t
 
 When it comes to items covered in a stand-up meeting as a metric it needs to be recorded. One way of doing this is having someone record everything stated in the meetings. Then a manager could review what was said in past meetings to measure the productivity of the engineers. Another way to measure this as a metric is to use a software tool to help measure this. Some of these tools include Geekbot and Sleeek which are both bots for Slack. They perform simple surveys and keep track of employees and their respective tasks.
 
-<img src=”/sleeek.png” alt=”sleek bot in use”>
+<img src=”/sleek.png” alt=”sleek bot in use”>
 
 
 ####Does it Work?
